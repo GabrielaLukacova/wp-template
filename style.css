@@ -1,15 +1,23 @@
 /*
-Theme Name: WP template
+Theme Name: WP Starter Template
 Theme URI: 
-Author: GL
-Author URI: 
-Description: Default template for wordpress Theming
+Author: KW
+Author URI: www.kristian-wittrup.dk
+Description: Default starter template for all projects.
 Requires at least: 6.1
 Tested up to: 6.1
 Requires PHP: 5.6
 Version: 1.0
 License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/old-licences/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 Text Domain: wpstartertemplate
-Tags: nothing yet
+Tags: Nothing yet
 */
+
+.elementor-widget-container{
+    background-color: aqua;
+}
+
+post-edit-link{
+    display:none
+}
